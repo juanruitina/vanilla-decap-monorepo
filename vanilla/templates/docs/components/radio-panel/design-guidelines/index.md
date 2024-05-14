@@ -163,9 +163,7 @@ Disabled
 1. Un-selected
 2. Selected \
 
-If the Radio Panel is in a disabled state, then it cannot be interacted with, but up to 1 Panel can be selected. 
-
-\[ TODO: Visual design needed for each state ] 
+If the Radio Panel is in a disabled state, then it cannot be interacted with, but up to 1 Panel can be selected.
 
 ## Examples
 
